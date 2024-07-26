@@ -145,6 +145,11 @@ button {
     left: 5px;
 }
 
+.card-footer img{
+    max-width: 50%;
+}
+
+
 .category {
     padding: 10px 0;
     display: inline-block;
